@@ -31,5 +31,5 @@ Planned: semantic clustering, summarization, frontend UI (Next.js), and feeds (e
 
 ---
 
-## 📂 Project Structure
+
 
